@@ -46,7 +46,7 @@ get_header(); ?>
 			<?php endif; ?>
 
 			</div><!-- #content -->
-		</div><!-- #primary -->
+		</div><!-- #primary div -->
 
 <?php get_sidebar(); ?>
 <?php get_footer(); ?>
